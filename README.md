@@ -1,11 +1,14 @@
-<h1 align="center">Hola, soy Carla Alcolea 👋</h1>
-<h3 align="center">Data Analyst | AI & Innovation Enthusiast | Operative Manager</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/carlaalcoleasoto/carlaalcoleasoto/main/banner_carlaalcolea.png" alt="Banner Carla Alcolea" />
+</div>
 
 ---
 
-📍 Madrid, España  
-🎓 Bootcamp Data Analyst | Máster IA & Innovación 
-📊 Power BI | SQL | Python | Git | Notion | Trello
+<h2 align="center">Hola, soy Carla Alcolea 👋</h2>
+<p align="center">
+  <strong>Data Analyst | AI & Innovation Enthusiast | Operative Manager</strong><br>
+  📍 Madrid, España &nbsp; | &nbsp; 💼 4Geeks Academy | 🎓 Founderz · Unicorn Academy
+</p>
 
 ---
 
@@ -13,22 +16,26 @@
 
 Soy una profesional apasionada por el análisis de datos y la automatización de procesos, con una visión estratégica que combina operaciones, inteligencia artificial y creatividad. Me gusta explorar cómo los datos pueden contar historias, resolver problemas reales y potenciar el talento de los equipos.
 
-🔍 Me especializo en:
-- Análisis exploratorio de datos y visualización
-- Automatización de procesos administrativos y financieros
-- Diseño de dashboards interactivos
-- Gestión y optimización de operaciones internas
-- Proyectos con impacto social y cultural
 
-📁 También me encanta crear documentación clara, útil y bien estructurada, y construir soluciones intuitivas que mejoren la experiencia de las personas.
+## ✨ Lo que me diferencia
+
+- 👩‍💼 Experiencia real liderando procesos internos, académicos y financieros en EdTech.
+- 🔁 Automatizo tareas con un enfoque ético, eficiente y visual.
+- 📊 Convierto el caos en visualizaciones estratégicas.
+- 🧠 Formo parte de proyectos con impacto social, educativo y científico.
+- 📝 Documentación clara, ordenada y útil como valor diferencial.
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-- 🗺️ **Global Insights Project**  
-  Análisis a gran escala con MySQL, Python y Power BI para detectar patrones globales en desarrollo, educación y sostenibilidad.  
-  _➡️ Modelado profesional en SQL, visualizaciones impactantes y memoria técnica._
+### 🌍 Global Insights Project
+Análisis a gran escala con MySQL, Python y Power BI para detectar patrones globales en desarrollo, educación y sostenibilidad.
+
+> _Modelado profesional en SQL, visualizaciones impactantes y memoria técnica._
+
+### 🧠 Visualización de pagos y morosidad
+Dashboard interno para academias tecnológicas que permite el seguimiento de pagos pendientes y predicción de riesgo financiero.
 
 ---
 
@@ -56,11 +63,13 @@ Notion · Trello · Slack · Git · Google Sheets · Miro
 
 ---
 
-### 🌐 Contacto
+## 🌐 Contacto
 
-📬 [LinkedIn](https://www.linkedin.com/in/carlaalcolea)  
+- [🔗 LinkedIn](https://www.linkedin.com/in/carlaalcolea)
+- 🌐 Blog: [Koala Metrics](https://koalametrics.wixsite.com/koala-metrics)
 
 ---
 
 _Gracias por visitar mi perfil. ¡Estoy abierta a colaborar en proyectos interesantes, especialmente si tienen impacto social, científico o educativo!_
+
 First profile update
